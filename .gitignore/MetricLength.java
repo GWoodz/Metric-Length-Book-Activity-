@@ -1,5 +1,5 @@
 /* MetricLength - converts inches to centimeters
-   Anderson, Franceschi
+   
 */
 
 public class MetricLength
